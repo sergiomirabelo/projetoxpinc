@@ -270,3 +270,11 @@ KPIs do Projeto
 -   Adicionar novos tipos de investimentos\
 -   Criar avatars e itens adicionais\
 -   Integrar notificações push
+
+------------------------------------------------------
+10. Integrantes
+
+- Sergio Mirabelo 
+- [linkedin](www.linkedin.com/in/sergio-mirabelo-209bb9366)
+- Pedro Almeida
+- [linkedin](https://www.linkedin.com/in/pedro-rodrigues-almeida-63779a227/)
