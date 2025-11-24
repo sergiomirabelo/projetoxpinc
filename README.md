@@ -1,4 +1,4 @@
-# 232 EDU --- Aplicativo de Educação Financeira Gamificada
+# 232 EDU   Aplicativo de Educação Financeira Gamificada
 
 ------------------------------------------------------------------------
 
