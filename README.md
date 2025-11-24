@@ -275,7 +275,7 @@ KPIs do Projeto
 
 10. Protótipo:
 
-- [Figma]:(https://www.figma.com/proto/SxT7WIrgRdVhrKHaJ0QBmi/Equipe232?node-id=7-42&t=RISkdQuLiTdf3Luq-1)
+-[figma](https://www.figma.com/proto/SxT7WIrgRdVhrKHaJ0QBmi/Equipe232?node-id=7-42&t=RISkdQuLiTdf3Luq-1)
 
 11. Integrantes
 
