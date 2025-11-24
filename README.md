@@ -27,13 +27,11 @@ Cada nível funciona como uma trilha educacional, composta por:
 
 O usuário pode cumprir missões reais do dia a dia, como:
 
-“Economize R$ 5 essa semana”
+“Acerte 3 exercícios”
 
 Ao cumprir, ele ganha créditos, que podem ser usados para:
 
 👤 Comprar novos avatares
-
-🔓 Desbloquear itens especiais
 
 Isso incentiva hábitos positivos fora do app.
 
@@ -56,13 +54,13 @@ rentabilidade
 longo prazo
 
 🛠️ Tecnologias Utilizadas
-Frontend
+Frontend:
 
 React Native
 
 NativeWind
 
-Backend
+Backend:
 
 Kotlin / Spring Boot
 
