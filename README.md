@@ -275,6 +275,6 @@ KPIs do Projeto
 10. Integrantes
 
 - Sergio Mirabelo 
-- [linkedin](www.linkedin.com/in/sergio-mirabelo-209bb9366)
+- [linkedin](https://www.linkedin.com/in/sergio-mirabelo-209bb9366/)
 - Pedro Almeida
 - [linkedin](https://www.linkedin.com/in/pedro-rodrigues-almeida-63779a227/)
