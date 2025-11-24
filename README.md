@@ -121,29 +121,29 @@ erDiagram
 
 ### Descrição das Entidades
 
-**USERS**\
+**USERS**
 Armazena dados dos usuários do aplicativo, incluindo idade e
 credenciais.
 
-**LEVELS**\
+**LEVELS**
 Define os níveis da trilha: Iniciante, Médio e Avançado.
 
-**CONTENT**\
+**CONTENT**
 Itens da trilha: vídeos, textos e conteúdos educativos.
 
-**EXERCISES**\
+**EXERCISES**
 Questões dos exercícios antes do desafio final.
 
-**USER_PROGRESS**\
+**USER_PROGRESS**
 Acompanhamento da evolução do aluno nas trilhas.
 
-**MISSIONS**\
+**MISSIONS**
 Missões reais que geram créditos (como economizar valor real).
 
-**USER_MISSIONS**\
+**USER_MISSIONS**
 Registra quais missões cada usuário completou.
 
-**INVESTMENT_SIMULATIONS**\
+**INVESTMENT_SIMULATIONS**
 Histórico das simulações feitas pelo usuário.
 
 ------------------------------------------------------------------------
@@ -155,39 +155,39 @@ NativeWind para estilização rápida e responsiva.
 
 Tecnologias Principais
 
--   React Native\
--   NativeWind\
--   React Navigation\
--   Axios\
+-   React Native
+-   NativeWind
+-   React Navigation
+-   Axios
 -   Recharts (para gráficos da simulação)
 
 Estrutura de Pastas
 
-src/\
-├── components/\
-│ ├── VideoPlayer.tsx\
-│ ├── TextContent.tsx\
-│ ├── Quiz.tsx\
-│ ├── MissionsCard.tsx\
-│ └── SimulationChart.tsx\
-├── pages/\
-│ ├── Login.tsx\
-│ ├── Home.tsx\
-│ ├── Levels.tsx\
-│ ├── LevelContent.tsx\
-│ ├── Missions.tsx\
-│ └── Simulation.tsx\
-├── hooks/\
-│ ├── useAuth.ts\
-│ ├── useLevels.ts\
-│ └── useSimulation.ts\
-├── services/\
-│ ├── api.ts\
-│ ├── userService.ts\
-│ ├── missionService.ts\
-│ └── simulationService.ts\
-└── utils/\
-├── formatters.ts\
+src/
+├── components/
+│ ├── VideoPlayer.tsx
+│ ├── TextContent.tsx
+│ ├── Quiz.tsx
+│ ├── MissionsCard.tsx
+│ └── SimulationChart.tsx
+├── pages/
+│ ├── Login.tsx
+│ ├── Home.tsx
+│ ├── Levels.tsx
+│ ├── LevelContent.tsx
+│ ├── Missions.tsx
+│ └── Simulation.tsx
+├── hooks/
+│ ├── useAuth.ts
+│ ├── useLevels.ts
+│ └── useSimulation.ts
+├── services/
+│ ├── api.ts
+│ ├── userService.ts
+│ ├── missionService.ts
+│ └── simulationService.ts
+└── utils/
+├── formatters.ts
 └── validations.ts
 
 ------------------------------------------------------------------------
