@@ -7,11 +7,11 @@ O 232 Edu é um aplicativo de educação financeira voltado para crianças e ado
 
 O app conta com 3 níveis de conhecimento:
 
-🟢 Iniciante
+🟢 Iniciante (8 a 11 anos)
 
-🟡 Médio
+🟡 Médio (12 a 14 anos)
 
-🔴 Avançado
+🔴 Avançado (15 a 18 anos)
 
 Cada nível funciona como uma trilha educacional, composta por:
 
