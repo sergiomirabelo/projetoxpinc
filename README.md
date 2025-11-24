@@ -272,7 +272,12 @@ KPIs do Projeto
 -   Integrar notificações push
 
 ------------------------------------------------------
-10. Integrantes
+
+10. Protótipo:
+
+- [Figma]:(https://www.figma.com/proto/SxT7WIrgRdVhrKHaJ0QBmi/Equipe232?node-id=7-42&t=RISkdQuLiTdf3Luq-1)
+
+11. Integrantes
 
 - Sergio Mirabelo 
 - [linkedin](https://www.linkedin.com/in/sergio-mirabelo-209bb9366/)
